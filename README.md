@@ -1,7 +1,7 @@
 
 <h1 align="left">Hey there 👋</h1>
 
-<p align="left">I’m Andres, a Junior Pipeline & Tools Developer. I make it my mission to make everyone's life easier. I'm lucky that I Like spending 2 weeks automating a 4 second task.</p>
+<p align="left">I’m Andres, a Junior Pipeline & Tools Developer. My mission is to make everyone's life easier, lucky that I enjoy spending 2 weeks automating a 4 second task.</p>
 
 
 <h3 align="left"> Tools I work with:</h3>
