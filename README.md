@@ -66,12 +66,18 @@
 
 ## 📌 Pinned Repositories
 
+<a href="https://github.com/amenrio/dotfiles">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=amenrio&repo=dotfiles&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/amenrio/rio.nvim">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=amenrio&repo=rio.nvim&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 <a href="https://github.com/amenrio/tfg">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=amenrio&repo=tfg&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> <a href="https://github.com/amenrio/amenrio.github.io">
+</a> 
+<a href="https://github.com/amenrio/amenrio.github.io">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=amenrio&repo=amenrio.github.io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
 
 <h2 align="center">Contact</h2>
 <div align="center">
