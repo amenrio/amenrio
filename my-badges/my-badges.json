@@ -1,0 +1,58 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/jtaibo/TallerCreacionTools/commit/a3a40feb1f261bcb4e313672ae2a60edefe67ed2\"><strong>a</strong>3a40feb1f261bcb4e313672ae2a60edefe67ed2</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/jtaibo/TallerCreacionTools/commit/658d16800fb04061f22c0a02f7a0c08650d2513b\">658d168</a>\n- <a href=\"https://github.com/jtaibo/TallerCreacionTools/commit/1e23775d525000e8eddd337eb1c327e759c84bf4\">1e23775</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/amenrio/techo-de-cristal/commit/faf5852dc05bb36c2835c568ad6bece22d2277aa\">faf5852</a>\n- <a href=\"https://github.com/amenrio/techo-de-cristal/commit/35adf15213e640d39ad384ce99ec8526e1e6a361\">35adf15</a>\n- <a href=\"https://github.com/amenrio/amenrio/commit/f1bca4ad2c102611274bf59e4bde18f5adcc8cbe\">f1bca4a</a>\n- <a href=\"https://github.com/amenrio/amenrio/commit/7e9861c3a0a0cd58dd0f545d9904bc801faef0bc\">7e9861c</a>\n- <a href=\"https://github.com/amenrio/amenrio/commit/c6fbcd12dab93c6c71a54f955924daac985bf415\">c6fbcd1</a>\n- <a href=\"https://github.com/amenrio/amenrio/commit/2aaa5b3f283b9455bbad448631de0cc9d7384e43\">2aaa5b3</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/amenrio/techo-de-cristal/commit/c86338e6d1e99710afd2980afa542b717144540c\">c86338e</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/midnight-commits.png?raw=true"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/amenrio/techo-de-cristal/commit/1197dff82768f46d78a9906c60381db748e3ebed\">1197dff</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/amenrio/dotfiles/commit/cf96a442c2cc608a435c98205c548c1069206f62\">cf96a44</a>: fixed gitconfig overrides\n- <a href=\"https://github.com/amenrio/dotfiles/commit/7cce9aaded606438d3fe73ff1a0df98d5d28e503\">7cce9aa</a>: fixed .gitconfig",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
+  },
+  {
+    "id": "public-keys-5",
+    "tier": 5,
+    "desc": "I have five or more public keys",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-5.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"added\".",
+    "body": "My favorite commit message words are:\n\n1. added (used 25 times)\n2. merge (used 21 times)\n3. branch (used 18 times)\n4. into (used 16 times)\n5. readme.md (used 15 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  }
+]
