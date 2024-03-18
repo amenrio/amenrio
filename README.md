@@ -84,3 +84,6 @@
   <a href="mailto:amenrio@proton.me" rel="amenrio@proton.me">![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)</a>&emsp;&emsp;<a href="mailto:amenrio@gmail.com" rel="amenrio@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>&emsp;&emsp;<a href="https://linkedin.com/in/andresmendezdelrio" rel="amenrio@gmail.com">![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 </div>
+
+<!-- my-badges start -->
+<!-- my-badges end -->
