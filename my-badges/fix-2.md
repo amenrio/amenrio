@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/amenrio/dotfiles/commit/cf96a442c2cc608a435c98205c548c1069206f62">cf96a44</a>: fixed gitconfig overrides
-- <a href="https://github.com/amenrio/dotfiles/commit/7cce9aaded606438d3fe73ff1a0df98d5d28e503">7cce9aa</a>: fixed .gitconfig
+- <a href="https://github.com/amenrio/amenrio.github.io/commit/97d6b5e85edd5ebbc062fa3742c441b16e568294">97d6b5e</a>: Fix workflow v2
+- <a href="https://github.com/amenrio/amenrio.github.io/commit/9b83289b6d4a804809ed2ed5a88fa7114c84da75">9b83289</a>: Fix hugo workflow
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
