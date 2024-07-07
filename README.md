@@ -91,16 +91,16 @@
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
 
-<a href="my-badges/a-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/a-commit.png?raw=true" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
-<a href="my-badges/morning-commits.md"><img src="https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/morning-commits.png?raw=true" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
-<a href="my-badges/evening-commits.md"><img src="https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/evening-commits.png?raw=true" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
-<a href="my-badges/midnight-commits.md"><img src="https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/midnight-commits.png?raw=true" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
-<a href="my-badges/mass-delete-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/badges/mass-delete-commit/mass-delete-commit.png?raw=true" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
-<a href="my-badges/fix-2.md"><img src="https://github.com/my-badges/my-badges/blob/master/badges/fix-commit/fix-2.png?raw=true" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
-<a href="my-badges/public-keys-5.md"><img src="https://github.com/my-badges/my-badges/blob/master/badges/public-keys/public-keys-5.png?raw=true" alt="I have five or more public keys" title="I have five or more public keys" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://github.com/my-badges/my-badges/blob/master/badges/favorite-word/favorite-word.png?raw=true" alt="My favorite word is &quot;added&quot;." title="My favorite word is &quot;added&quot;." width="64"></a>
-<a href="my-badges/rebel-coder.md"><img src="https://github.com/my-badges/my-badges/blob/master/badges/polite-coder/rebel-coder.png?raw=true" alt="I am a rebel coder." title="I am a rebel coder." width="64"></a>
-<a href="my-badges/mass-delete-commit-10k.md"><img src="https://github.com/my-badges/my-badges/blob/master/badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
+<a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
+<a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
+<a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
+<a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
+<a href="my-badges/mass-delete-commit.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
+<a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
+<a href="my-badges/public-keys-5.md"><img src="https://my-badges.github.io/my-badges/public-keys-5.png" alt="I have five or more public keys" title="I have five or more public keys" width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;added&quot;." title="My favorite word is &quot;added&quot;." width="64"></a>
+<a href="my-badges/rebel-coder.md"><img src="https://my-badges.github.io/my-badges/rebel-coder.png" alt="I am a rebel coder." title="I am a rebel coder." width="64"></a>
+<a href="my-badges/mass-delete-commit-10k.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit-10k.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
 <a href="my-badges/emoji-only-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/badges/emoji-only-commit/emoji-only-commit.png?raw=true" alt="I used only emojis in my commit message." title="I used only emojis in my commit message." width="64"></a>
 <!-- my-badges end -->
 
