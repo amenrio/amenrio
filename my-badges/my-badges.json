@@ -75,5 +75,12 @@
     "desc": "I used only emojis in my commit message.",
     "body": "Commits:\n\n- <a href=\"https://github.com/amenrio/amenrio.github.io/commit/11d2303b68a1cbbd262cedd868fd94293ac6093d\">11d2303</a>: 4",
     "image": "https://github.com/my-badges/my-badges/blob/master/badges/emoji-only-commit/emoji-only-commit.png?raw=true"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
   }
 ]
