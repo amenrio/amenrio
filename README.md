@@ -1,7 +1,7 @@
 
 <h1 align="left">Hey there 👋</h1>
 
-<p align="left">I’m Andres, a Junior Pipeline & Tools Developer based in A Coruña, Spain</p>
+<p align="left">I’m Andres, a Junior Pipeline TD based in A Coruña, Spain</p>
 
 
 <h3 align="left">I work with:</h3>
