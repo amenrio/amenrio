@@ -89,5 +89,12 @@
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/amenrio/neovim/commit/aba041eccbc49d7d849871abfcaeaba89777b795\"><strong>ab</strong>a041eccbc49d7d849871abfcaeaba89777b795</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/amenrio/dotfiles/commit/cc5ac62734a7b09a1e670d42810fadde65f3dff4\">cc5ac62</a>\n- <a href=\"https://github.com/amenrio/dotfiles/commit/17d95a45e8f8cb95cce7b8fd76e5d964f8b5025c\">17d95a4</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   }
 ]
