@@ -56,38 +56,10 @@
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
-    "id": "rebel-coder",
-    "tier": 0,
-    "desc": "I am a rebel coder.",
-    "body": "I do not use words like \"thanks\" and \"please\" in my issues.\nStraight to the point!",
-    "image": "https://my-badges.github.io/my-badges/rebel-coder.png"
-  },
-  {
-    "id": "mass-delete-commit-10k",
-    "tier": 2,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/amenrio/tfg/commit/805ff3c013de0f432ff2f8daf34a6f7720fe7cc7\">805ff3c</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
-  },
-  {
-    "id": "emoji-only-commit",
-    "tier": 0,
-    "desc": "I used only emojis in my commit message.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/amenrio/amenrio.github.io/commit/11d2303b68a1cbbd262cedd868fd94293ac6093d\">11d2303</a>: 4",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/emoji-only-commit/emoji-only-commit.png?raw=true"
-  },
-  {
-    "id": "public-keys-2",
-    "tier": 2,
-    "desc": "I have two public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
-  },
-  {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/amenrio/neovim/commit/aba041eccbc49d7d849871abfcaeaba89777b795\"><strong>ab</strong>a041eccbc49d7d849871abfcaeaba89777b795</a>",
+    "body": "- <a href=\"https://github.com/amenrio/dotfiles/commit/abdaac34a69cb06bf7d7ecde0309ebe2659920ea\"><strong>ab</strong>daac34a69cb06bf7d7ecde0309ebe2659920ea</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
